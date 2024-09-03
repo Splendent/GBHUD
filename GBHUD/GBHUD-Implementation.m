@@ -23,6 +23,7 @@
 #import "GBHUDShims.h"
 
 #import <QuartzCore/QuartzCore.h>
+@import CoreImage;
 
 #if TARGET_OS_IPHONE
 static CGFloat const kAnimationDuration =                           0.2;
